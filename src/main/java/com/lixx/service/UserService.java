@@ -8,6 +8,7 @@ package com.lixx.service;
 public class UserService {
 
     public void saveUser(){
-        System.out.println("saveUser");
+        System.out.println("saveUser and github");
+        
     }
 }
